@@ -1,5 +1,5 @@
 # Short Bio
-https://github.com/Bluez009
+[https://github.com/Bluez009](https://github.com/Bluez009)
 
 Undergraduate student at Stony Brook University, majoring in Computer Engineering.
 I have taken an intro course in Java and C. Currently taking a course in C++ and VHDL programming.
