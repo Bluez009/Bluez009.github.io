@@ -12,11 +12,11 @@ Course work done at Stony Brook University:
 
 [CSE114 - Java](https://github.com/Bluez009/School-Work-CSE114)
 : Introduction to Object-Oriented Programming
-Consisting of homework and projects.
+- Consisting of homework and projects.
 
 [ESE224 - C/C++](https://github.com/Bluez009/ESE224) 
 : Computer Techniques for Electronic Design II
-Consisting of homework and projects
+- Consisting of homework and projects
 
 # Project
 [Front-End Web Development](https://github.com/Bluez009/websiteSHPE)
