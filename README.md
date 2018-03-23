@@ -1,4 +1,6 @@
 # Short Bio
+https://github.com/Bluez009
+
 Undergraduate student at Stony Brook University, majoring in Computer Engineering.
 I have taken an intro course in Java and C. Currently taking a course in C++ and VHDL programming.
 
@@ -9,7 +11,12 @@ Links below are repositories that consists of personal projects/homeworks that I
 Course work done at Stony Brook University:
 
 [CSE114 - Java](https://github.com/Bluez009/School-Work-CSE114)
-: Consisting of homework and projects.
+: Introduction to Object-Oriented Programming
+Consisting of homework and projects.
+
+[ESE224 - C/C++](https://github.com/Bluez009/ESE224) 
+: Computer Techniques for Electronic Design II
+Consisting of homework and projects
 
 # Project
 [Front-End Web Development](https://github.com/Bluez009/websiteSHPE)
