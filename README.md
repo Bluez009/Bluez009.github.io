@@ -20,4 +20,5 @@ Course work done at Stony Brook University:
 
 # Project
 [Front-End Web Development](https://github.com/Bluez009/websiteSHPE)
-: Initially created for Stony Brook University Chapter of Hispanic Professional Engineers, to revamp the old website using bootstrap 4, and pingendo to help visually see the website on different devices.
+: Initially created for Stony Brook University Chapter of Hispanic Professional Engineers, to revamp the old website using bootstrap 4, and pingendo to quickly see the website on different devices.
+- Preview: [https://rawgit.com/Bluez009/websiteSHPE/master/index.html](https://rawgit.com/Bluez009/websiteSHPE/master/index.html)
