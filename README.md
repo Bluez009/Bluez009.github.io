@@ -28,8 +28,4 @@ Course work done at Stony Brook University:
 - Consisting of only homework
 
 ### [ESE224 - C/C++](https://github.com/Bluez009/ESE224Project) Computer Techniques for Electronic Design II
-- Consisting of homework
-
-### [ESE224 - C/C++](https://github.com/Bluez009/ESE224Project) Computer Techniques for Electronic Design II
 - Collaborating with a partner for a Bank-Queue simulation program.
-
